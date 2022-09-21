@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuneebBray
 - 👀 I’m interested in Software, Coding, Machine Learning and Electrical Engineeering Concepts
-- 🌱 I’m currently learning Software Development and Electrical Engineering
+- 🌱 I’m currently learning Software Development Development Engineering
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me muneebbray@gmail.com
 
